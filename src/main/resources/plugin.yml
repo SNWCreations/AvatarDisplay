@@ -1,0 +1,9 @@
+name: AvatarDisplay
+version: '${version}'
+main: snw.avatardisplay.AvatarDisplay
+api-version: '1.20'
+
+commands:
+  fuhuofk:
+    description: "I don't care the description"
+    permission: op
